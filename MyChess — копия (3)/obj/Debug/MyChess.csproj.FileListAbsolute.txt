@@ -1,0 +1,11 @@
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\bin\Debug\MyChess.exe.config
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\bin\Debug\MyChess.exe
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\bin\Debug\MyChess.pdb
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.Properties.Resources.resources
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.exe
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.pdb
+C:\Users\Денис\Desktop\Prodgect IT\C#\MyChess\obj\Debug\MyChess.Form1.resources
